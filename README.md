@@ -74,27 +74,29 @@ The backend will send an email to your configured address (EMAIL_TO in .env)
 
 Frontend:
 
-HTML5
-CSS3
-JavaScript (ES6)
-GSAP + ScrollTrigger
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- GSAP + ScrollTrigger
 
 Backend:
 
-Node.js
-Express.js
-Nodemailer
-dotenv
-CORS
+- Node.js
+- Express.js
+- Nodemailer
+- dotenv
+- CORS
 
 ----
 
 🔮 Future Improvements
 
-🌊 Advanced WebGL wave/ripple effects
-🗄️ Save contact messages to MongoDB
-🌙 Dark/Light theme toggle
-📱 More responsive mobile optimization
+🌊 Advanced WebGL wave/ripple effects <br>
+🗄️ Save contact messages to MongoDB <br>
+🌙 Dark/Light theme toggle <br>
+📱 More responsive mobile optimization <br>
+
+---
 
 📜 License
 
