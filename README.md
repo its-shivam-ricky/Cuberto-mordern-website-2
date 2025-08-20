@@ -1,5 +1,5 @@
 # 🌐 Modern Website - 2
-
+Actually its a clone of Cuberto website - its not the same but you will love it❤️
 A **modern animated portfolio-style website** built with **HTML, CSS, JavaScript, and GSAP (ScrollTrigger)**.  
 It features smooth scrolling, pinned sections, synchronized text-image animations, a wave-style image transition, and a fully functional **Contact Form** with a Node.js/Express backend (email sending via Nodemailer).
 
