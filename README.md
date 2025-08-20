@@ -16,7 +16,13 @@ It features smooth scrolling, pinned sections, synchronized text-image animation
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Preview / Screenshorts
+
+<img width="2874" height="1614" alt="Screenshot 2025-08-21 021126" src="https://github.com/user-attachments/assets/1e375ed1-2a6e-4fa3-be46-6b996b0cc535" />
+<img width="2875" height="1616" alt="Screenshot 2025-08-21 021229" src="https://github.com/user-attachments/assets/b3432f06-aa7d-4c6c-884e-763ee1390e91" />
+<img width="2879" height="1617" alt="Screenshot 2025-08-21 021506" src="https://github.com/user-attachments/assets/4434c580-ea6e-4933-9cf0-c5e60b61a03e" />
+<img width="2874" height="1616" alt="Screenshot 2025-08-21 021528" src="https://github.com/user-attachments/assets/963d8bf9-b099-45e0-a13a-d10afd92ab9b" />
+
 
 ---
 
