@@ -96,24 +96,6 @@ The backend will send an email to your configured address (EMAIL_TO in .env)
 
 ---
 
-## 🛠️ Tech Stack
-
-Frontend:
-
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- GSAP + ScrollTrigger
-
-Backend:
-
-- Node.js
-- Express.js
-- Nodemailer
-- dotenv
-- CORS
-
-----
 
 ## 🔮 Future Improvements:
 
