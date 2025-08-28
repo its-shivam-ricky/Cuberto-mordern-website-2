@@ -1,34 +1,38 @@
 # 🌐Cuberto Modern Website - 2
 Actually its a clone of Cuberto website - its not the same but you will love it❤️<br>
 A **modern animated portfolio-style website** built with **HTML, CSS, JavaScript, and GSAP (ScrollTrigger)**.  
-It features smooth scrolling, pinned sections, synchronized text-image animations, a wave-style image transition, and a fully functional **Contact Form** with a Node.js/Express backend (email sending via Nodemailer).
+It features smooth scrolling, pinned sections, synchronized text-image animations, a wave-style image transition, and a fully functional **Contact Form** with a Node.js/Express backend integration (email sending via Nodemailer) .
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 **🎨 Modern UI/UX** inspired by Cuberto<br>
 **🖱️ Interactive Hover & Magnet Effects** using Shery.js<br>
-**🎥 Media Hover Previews **(video hover on headings)<br>
+**🎥 Media Hover Previews**(video hover on headings)<br>
 **🌍 Smooth Scroll Animations with GSAP + ScrollTrigger**<br>
 **🖼️ 3D & Image Distortion Effects** using Three.js<br>
 **📱 Responsive Design** (optimized for mobile & desktop)<br>
 **📩 Contact Form with Backend Support**<br>
-# Frontend form built with validation<br>
-# Sends form data via AJAX request to backend (/contact endpoint)<br>
-# Displays success/error messages dynamically<br>
+ - Frontend form built with validation<br>
+ - Sends form data via AJAX request to backend (/contact endpoint)<br>
+ - Displays success/error messages dynamically<br>
+ 
 ---
+
 # 🛠️ Tech Stack
 **Frontend:**
-# HTML5, CSS3, JavaScript
-# GSAP (GreenSock) + ScrollTrigger
-# Shery.js (Magnet & Hover effects)
-# Remix Icons
-# Three.js (3D effects)
+- HTML5, CSS3, JavaScript
+- GSAP (GreenSock) + ScrollTrigger
+- Shery.js (Magnet & Hover effects)
+- Remix Icons
+- Three.js (3D effects)
 
 **Backend:**
-# Node.js / Express (server for contact form)
-# REST API endpoint (/contact)
-# JSON response handling
+- Node.js / Express (server for contact form)
+- REST API endpoint (/contact)
+- JSON response handling
+  
+---
 
 ## 🖼️ Preview / Screenshorts
 
