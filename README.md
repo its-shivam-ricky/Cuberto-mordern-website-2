@@ -6,29 +6,29 @@ It features smooth scrolling, pinned sections, synchronized text-image animation
 ---
 
 ## 🚀 Features
-**🎨 Modern UI/UX** inspired by Cuberto
-**🖱️ Interactive Hover & Magnet Effects** using Shery.js
-**🎥 Media Hover Previews **(video hover on headings)
-**🌍 Smooth Scroll Animations with GSAP + ScrollTrigger**
-**🖼️ 3D & Image Distortion Effects** using Three.js
-**📱 Responsive Design** (optimized for mobile & desktop)
-**📩 Contact Form with Backend Support**
-#Frontend form built with validation
-#Sends form data via AJAX request to backend (/contact endpoint)
-#Displays success/error messages dynamically
+**🎨 Modern UI/UX** inspired by Cuberto<br>
+**🖱️ Interactive Hover & Magnet Effects** using Shery.js<br>
+**🎥 Media Hover Previews **(video hover on headings)<br>
+**🌍 Smooth Scroll Animations with GSAP + ScrollTrigger**<br>
+**🖼️ 3D & Image Distortion Effects** using Three.js<br>
+**📱 Responsive Design** (optimized for mobile & desktop)<br>
+**📩 Contact Form with Backend Support**<br>
+# Frontend form built with validation<br>
+# Sends form data via AJAX request to backend (/contact endpoint)<br>
+# Displays success/error messages dynamically<br>
 ---
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 **Frontend:**
-HTML5, CSS3, JavaScript
-GSAP (GreenSock) + ScrollTrigger
-Shery.js (Magnet & Hover effects)
-Remix Icons
-Three.js (3D effects)
+# HTML5, CSS3, JavaScript
+# GSAP (GreenSock) + ScrollTrigger
+# Shery.js (Magnet & Hover effects)
+# Remix Icons
+# Three.js (3D effects)
 
 **Backend:**
-Node.js / Express (server for contact form)
-REST API endpoint (/contact)
-JSON response handling
+# Node.js / Express (server for contact form)
+# REST API endpoint (/contact)
+# JSON response handling
 
 ## 🖼️ Preview / Screenshorts
 
